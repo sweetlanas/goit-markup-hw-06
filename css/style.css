@@ -620,6 +620,7 @@ a {
   background-color: var(--accent-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .footer-icon {
@@ -822,6 +823,7 @@ a {
   background-color: #188ce8;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  cursor: pointer;
 }
 
 /* ========== END BACKDROP ========== */
