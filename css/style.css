@@ -597,7 +597,7 @@ a {
   margin-right: 12px;
 }
 
-..footer-input::placeholder {
+.footer-input::placeholder {
   font-size: 16px;
   line-height: 1.25;
   letter-spacing: 0.03em;
